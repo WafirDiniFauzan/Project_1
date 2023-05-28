@@ -1,0 +1,10 @@
+README.md
+setup.py
+report.egg-info/PKG-INFO
+report.egg-info/SOURCES.txt
+report.egg-info/dependency_links.txt
+report.egg-info/requires.txt
+report.egg-info/top_level.txt
+report/src/__init__.py
+report/src/operators/__init__.py
+report/src/operators/xlsx_report_plugin.py
